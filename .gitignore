@@ -1,0 +1,6 @@
+.DS_Store
+*.dylib
+/hidpi/libhidpi.build.*
+/hidpi/test-backup.*/
+/hidpi/backups/
+*.log
